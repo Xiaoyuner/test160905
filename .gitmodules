@@ -1,0 +1,9 @@
+[submodule "src/ctm"]
+	path = src/ctm
+	url = http://git.tech.nanhaicorp.com.cn/oristarcloud/ctm.git
+[submodule "src/ccm"]
+	path = src/ccm
+	url = http://git.tech.nanhaicorp.com.cn/oristarcloud/ccm.git
+[submodule "src/cmm"]
+	path = src/cmm
+	url = http://git.tech.nanhaicorp.com.cn/oristarcloud/cmm.git
