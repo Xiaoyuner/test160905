@@ -7,3 +7,6 @@
 [submodule "src/cmm"]
 	path = src/cmm
 	url = http://git.tech.nanhaicorp.com.cn/oristarcloud/cmm.git
+[submodule "src/vuedemo"]
+	path = src/vuedemo
+	url = https://github.com/Xiaoyuner/vuedemo.git
